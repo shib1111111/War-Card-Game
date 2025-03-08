@@ -43,11 +43,11 @@ To run the game locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/war-card-game.git
+   git clone https://github.com/shib1111111/War-Card-Game.git
    ```
 2. **Navigate to the Project Directory:**
    ```bash
-   cd war-card-game
+   cd War-Card-Game
    ```
 3. **Open `index.html` in your Browser:**
    - You can simply double-click the file, or use a local development server for a better experience.
